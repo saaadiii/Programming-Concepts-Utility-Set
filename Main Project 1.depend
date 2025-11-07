@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762363423 source:e:\c++ codes\test\main project 1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
